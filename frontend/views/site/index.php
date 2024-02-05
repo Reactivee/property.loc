@@ -13,7 +13,7 @@
     <div class="content">
         <p class="text pb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et id in ipsam ipsum minima
             perferendis quae, recusandae sunt temporibus voluptates?</p>
-        <img class="w-100 pb-3" src="/uploads/2.jpg" alt="">
+        <img class="w-100 pb-3" src="/uploads/2.jpeg" alt="">
         <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et id in ipsam ipsum minima
             perferendis quae, recusandae sunt temporibus voluptates?</p>
     </div>
@@ -54,14 +54,14 @@
             </div>
         </div>
         <div class="col-md-5">
-            <img class="w-100" src="/uploads/2.jpg" alt="">
+            <img class="w-100" src="/uploads/2.jpeg" alt="">
         </div>
 
     </div>
     <div class="next_value_content">
         <div class="row mt-5 align-items-center">
             <div class="col-md-5">
-                <img class="w-100" src="/uploads/2.jpg" alt="">
+                <img class="w-100" src="/uploads/2.jpeg" alt="">
             </div>
             <div class="col-md-7">
                 <div class="value_content">
@@ -88,7 +88,10 @@
     <div class="gallery">
         <div class="row mt-4">
             <div class="col-md-6">
-                <img class="w-100" src="/uploads/2.jpg" alt="">
+                <img class="w-100" src="/uploads/2.jpeg" alt="">
+            </div>
+            <div class="col-md-6">
+                <img class="w-100" src="/uploads/2.jpeg" alt="">
             </div>
         </div>
     </div>
@@ -103,36 +106,34 @@
         <div class="swiper villa_swiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img class="w-100" src="/uploads/2.jpg" alt="">
+                    <img class="w-100" src="/frontend/web/uploads/59602604.jpg" alt="">
                     <div class="slider_item_text">
                         <div class="title_slide">Lorem ipsum dolor sit amet.</div>
                         <div class="sub_slide">Lorem ipsum.</div>
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <img class="w-100" src="/uploads/2.jpg" alt="">
+                    <img class="w-100" src="/frontend/web/uploads/59602471.jpg" alt="">
                     <div class="slider_item_text">
                         <div class="title_slide">Lorem ipsum dolor sit amet.</div>
                         <div class="sub_slide">Lorem ipsum.</div>
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <img class="w-100" src="/uploads/2.jpg" alt="">
+                    <img class="w-100" src="/frontend/web/uploads/59602707.jpg" alt="">
                     <div class="slider_item_text">
                         <div class="title_slide">Lorem ipsum dolor sit amet.</div>
                         <div class="sub_slide">Lorem ipsum.</div>
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <img class="w-100" src="/uploads/2.jpg" alt="">
+                    <img class="w-100" src="/frontend/web/uploads/59601788.png" alt="">
                     <div class="slider_item_text">
                         <div class="title_slide">Lorem ipsum dolor sit amet.</div>
                         <div class="sub_slide">Lorem ipsum.</div>
                     </div>
                 </div>
             </div>
-<!--            <div class="swiper-button-next"></div>-->
-<!--            <div class="swiper-button-prev"></div>-->
         </div>
         <a href="#" class="btn btn-connect w-100 mt-4 py-3">Получить каталог</a>
     </div>
@@ -143,36 +144,35 @@
         <div class="swiper villa_swiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img class="w-100" src="/uploads/2.jpg" alt="">
+                    <img class="w-100" src="/uploads/59600049.jpg" alt="">
                     <div class="slider_item_text">
                         <div class="title_slide">Lorem ipsum dolor sit amet.</div>
                         <div class="sub_slide">Lorem ipsum.</div>
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <img class="w-100" src="/uploads/2.jpg" alt="">
+                    <img class="w-100" src="/frontend/web/uploads/59601788.png" alt="">
                     <div class="slider_item_text">
                         <div class="title_slide">Lorem ipsum dolor sit amet.</div>
                         <div class="sub_slide">Lorem ipsum.</div>
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <img class="w-100" src="/uploads/2.jpg" alt="">
+                    <img class="w-100" src="/frontend/web/uploads/59602087.jpg" alt="">
                     <div class="slider_item_text">
                         <div class="title_slide">Lorem ipsum dolor sit amet.</div>
                         <div class="sub_slide">Lorem ipsum.</div>
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <img class="w-100" src="/uploads/2.jpg" alt="">
+                    <img class="w-100" src="/frontend/web/uploads/59602707.jpg" alt="">
                     <div class="slider_item_text">
                         <div class="title_slide">Lorem ipsum dolor sit amet.</div>
                         <div class="sub_slide">Lorem ipsum.</div>
                     </div>
                 </div>
             </div>
-            <div class="swiper-button-next"></div>
-            <div class="swiper-button-prev"></div>
+
         </div>
         <a href="#" class="btn btn-connect w-100 mt-4 py-3">Получить каталог</a>
     </div>
@@ -185,7 +185,7 @@
         <input class="form-control" type="text" placeholder="Имя">
         <input class="form-control" type="text" placeholder="Телефон">
         <input class="form-control" type="email" placeholder="Email">
-        <button  class="btn btn-connect w-100 mt-4 py-3">Отправить</button>
+        <button class="btn btn-connect w-100 mt-4 py-3">Отправить</button>
 
     </form>
 </section>
@@ -227,11 +227,20 @@
         <h2 class="main_title">Contact</h2>
     </div>
     <div class="contact_btn">
-        <a href="#" class="btn btn-connect mt-4 pyu-3 facebook d-flex justify-content-center align-items-center">
-            <img width="50" height="50" src="/uploads/fb.svg" alt=""> Facebook</a>
-        <a href="#" class="btn btn-connect mt-4 pyu-3 instagram d-flex justify-content-center align-items-center">
-            <img width="50" height="50" src="/frontend/web/uploads/ins.svg" alt=""> Instagram</a>
-        <a href="#" class="btn btn-connect mt-4 pyu-3 wh d-flex justify-content-center align-items-center">
-            <img width="50" height="50" src="/frontend/web/uploads/wh.webp" alt=""> Whatsapp</a>
+        <div class="btn btn-connect mt-4 py-2 facebook d-flex justify-content-center align-items-center">
+            <a href="#" class="">
+                <img class="mr-3" width="50" height="50" src="/uploads/fb.svg" alt=""> </a>
+            <span class="ml-3"> Facebook</span>
+        </div>
+        <div class="btn btn-connect mt-4 py-2 instagram d-flex justify-content-center align-items-center">
+            <a href="#" class="">
+                <img width="50" height="50" src="/frontend/web/uploads/ins.svg" alt=""> </a>
+            <span class="ml-3">Instagram</span>
+        </div>
+        <div class="btn btn-connect mt-4 py-2 wh d-flex justify-content-center align-items-center">
+            <a href="#" class="">
+                <img width="50" height="50" src="/frontend/web/uploads/wh.webp" alt=""> </a>
+            <span class="ml-3">Whatsapp</span>
+        </div>
     </div>
 </section>

@@ -65,16 +65,16 @@ AppAsset::register($this);
         <div class="container">
             <ul class="list-unstyled m-0 p-0 menu_items d-flex justify-content-center">
                 <li class="menu_item">
-                    <a class="text-decoration-none" href="#">Обо мне</a>
+                    <a class="text-decoration-none" href="#about">Обо мне</a>
                 </li>
                 <li class="menu_item">
-                    <a class="text-decoration-none" href="#">Каталог</a>
+                    <a class="text-decoration-none" href="#catalog">Каталог</a>
                 </li>
                 <li class="menu_item">
-                    <a class="text-decoration-none" href="#">FAQ</a>
+                    <a class="text-decoration-none" href="#faq">FAQ</a>
                 </li>
                 <li class="menu_item">
-                    <a class="text-decoration-none" href="#">Контакты</a>
+                    <a class="text-decoration-none" href="#contact">Контакты</a>
                 </li>
             </ul>
         </div>
