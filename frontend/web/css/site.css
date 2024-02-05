@@ -1,0 +1,150 @@
+/*1.*/
+body {
+    background: #F0F0F0;
+}
+
+.container {
+    max-width: 980px;
+    /*margin: 0 auto;*/
+}
+
+/*header*/
+header {
+    border-bottom: 1px solid black;
+}
+
+.menu_item {
+    margin: 0 15px;
+    padding: 15px 0;
+}
+
+.menu_item a {
+    color: #143211;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.name {
+    text-transform: uppercase;
+    line-height: 90%;
+    font-size: 150px;
+    font-weight: 600;
+    text-align: right;
+    position: relative;
+    z-index: 1;
+    background: transparent;
+}
+
+.main_banner {
+    margin-top: -130px;
+}
+
+.btn-connect {
+    background: #5C695F;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+/*sections*/
+.main_title {
+    text-transform: uppercase;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.title_type {
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.list_types_text {
+    border-bottom: 2px solid #999999;
+    padding-bottom: 20px;
+}
+
+.list_type_item {
+    margin-bottom: 24px;
+    font-size: 22px;
+}
+
+.check {
+    width: 30px;
+    height: 30px;
+    margin-right: 25px;
+}
+
+.next_value_content {
+    background: #5C695F;
+    color: white;
+}
+
+.value_content {
+    font-size: 24px;
+    padding: 0 20px;
+}
+
+.title_slide {
+    font-size: 23px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.sub_slide {
+    margin-top: 5px;
+}
+
+.form input {
+    background: transparent;
+    border: none;
+    padding: 15px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid gray;
+}
+
+.form input:focus {
+    outline: none;
+    background: transparent;
+    border-color: #b3b3b3;
+    box-shadow: 0 0 0 0.1rem #b3b3b3;
+}
+
+.content p {
+    font-size: 22px;
+}
+
+.accordion-button {
+    background-color: transparent;
+
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+    border-color: transparent;
+}
+
+.accordion-button:not(.collapsed) {
+    background: transparent;
+    color: black;
+}
+
+.btn:hover {
+    /*opacity: 0.4;*/
+    background: #727e76;
+    color: white;
+}
+
+/*contact*/
+.facebook {
+    background: #1877F2;
+}
+
+.instagram {
+    background: #EA4966;
+}
+
+.wh {
+    background: #93D3AB;
+
+}
