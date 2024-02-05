@@ -146,5 +146,8 @@ header {
 
 .wh {
     background: #93D3AB;
-
+}
+.colored{
+    color: #5C695F;
+    font-weight: 700;
 }

@@ -182,9 +182,9 @@
         <h2 class="main_title">Оставить заявку для консультатции</h2>
     </div>
     <form action="#" class="form">
-        <input class="form-control" type="text" placeholder="Имя">
-        <input class="form-control" type="text" placeholder="Телефон">
-        <input class="form-control" type="email" placeholder="Email">
+        <input class="form-control" type="text" placeholder="Имя" required>
+        <input class="form-control" type="text" placeholder="Телефон" required>
+        <input class="form-control" type="email" placeholder="Email" required>
         <button class="btn btn-connect w-100 mt-4 py-3">Отправить</button>
 
     </form>
@@ -224,7 +224,7 @@
 </section>
 <section id="contact" class="contact mt-5">
     <div class="block_title text-center">
-        <h2 class="main_title">Contact</h2>
+        <h2 class="main_title">Контакты</h2>
     </div>
     <div class="contact_btn">
         <div class="btn btn-connect mt-4 py-2 facebook d-flex justify-content-center align-items-center">
